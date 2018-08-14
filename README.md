@@ -9,7 +9,7 @@ Version 1.0(201808)
 |Family|既婚・子なし|
 |Location|Yokohama|
 |Mail|xryos_career@outlook.jp|
-|Github|[ryos85](https://github.com/ryos85)|
+|GitHub|[ryos85](https://github.com/ryos85)|
 |Blog|[Ryosの技術備忘録](https://xryos.hatenablog.com/)|
 |Qiita|https://qiita.com/ryos85|
   
